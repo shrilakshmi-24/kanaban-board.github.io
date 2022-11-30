@@ -1,4 +1,4 @@
-import KanbanAPI from "../api/KanbanAPI.js";
+import KanbanAPI from "../api/kanbanAPI.js";
 
 export default class DropZone {
 	static createDropZone() {
